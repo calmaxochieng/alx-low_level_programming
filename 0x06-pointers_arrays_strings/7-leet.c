@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * leet - encodes a string in 1337
@@ -26,4 +26,3 @@ char *leet(char *s)
 
 	return (s);
 }
-
